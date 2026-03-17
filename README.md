@@ -27,25 +27,7 @@ Eventsim uses song data from [Million Songs Dataset](http://millionsongdataset.c
 - Data Visualization - [**Data Studio**](https://datastudio.google.com/overview)
 - Language - [**Python**](https://www.python.org)
 
-### Architecture
 
-![streamify-architecture](images/Streamify-Architecture.jpg)
-
-### Final Result
-
-![dashboard](images/dashboard.png)
-## Setup
-
-**WARNING: You will be charged for all the infra setup. You can avail 300$ in credit by creating a new account on GCP.**
-### Pre-requisites
-
-If you already have a Google Cloud account and a working terraform setup, you can skip the pre-requisite steps.
-
-- Google Cloud Platform. 
-  - [GCP Account and Access Setup](setup/gcp.md)
-  - [gcloud alternate installation method - Windows](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_1_basics_n_setup/1_terraform_gcp/windows.md#google-cloud-sdk)
-- Terraform
-  - [Setup Terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_1_basics_n_setup/1_terraform_gcp/windows.md#terraform)
 
 
 ### Get Going!
